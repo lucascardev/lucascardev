@@ -1,4 +1,4 @@
-<div style="background: #FFFFFF;">
+<div style="background-color: '#FFFFFF';">
 ## Contatos:
 
 <div>
