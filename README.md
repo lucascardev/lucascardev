@@ -7,6 +7,12 @@
 <a href="https://www.linkedin.com/in/lucascardev" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div>
 
+## Skills:
+
+<div>
+<img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
+</div>
+
 
 ### Hi there 👋
 
