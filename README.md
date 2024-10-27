@@ -12,6 +12,25 @@
 
 <div>
 <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Javascipt-yellow?style=for-the-badge&logo=javascript&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
+
+
+Community
+
+    GitHub
+
+Open Collective
+Discord
+Awesome Badges
+Stats
+
+    Service Status
+
+Metrics dashboard
+Copyright © 2024 Shields.io. Built with Docusaurus.
 </div>
 
 
