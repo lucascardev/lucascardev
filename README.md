@@ -15,13 +15,13 @@
   <img loading="lazy" src="https://img.shields.io/badge/Javascipt-yellow?style=for-the-badge&logo=javascript&logoColor=%23ffffff">
   <img loading="lazy" src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=nodedotjs&logoColor=%23ffffff">
   <img loading="lazy" src="https://img.shields.io/badge/ReactJS-lightblue?style=for-the-badge&logo=react&logoColor=%23000000">
-  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
-  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
-<img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
-  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
-  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
-  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
-  <img loading="lazy" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/React_Native-lightblue?style=for-the-badge&logo=react&logoColor=%23000000">
+  <img loading="lazy" src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff">
+<img loading="lazy" src="https://img.shields.io/badge/PrismaORM-gray?style=for-the-badge&logo=prisma&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Postgres-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23000">
+  <img loading="lazy" src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=%23ffff">
+  <img loading="lazy" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23ffff">
 </div>
 
 
