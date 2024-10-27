@@ -17,8 +17,6 @@
 
 ### Hi there 👋
 
-![Character03](https://github.com/lucascardev/lucascardev/assets/49594864/f71fa439-710a-4304-8053-233bb8ee0cff)
-
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascardev&show_icons=true&theme=dracula"/>
