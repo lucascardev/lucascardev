@@ -22,7 +22,7 @@
   <img loading="lazy" src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23000">
   <img loading="lazy" src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=%23ffff">
   <img loading="lazy" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23ffff">
-  <img loading="lazy" src="https://img.shields.io/badge/Bun-ffffff?logo=bun&logoColor=%23000000">
+  <img loading="lazy" src="https://img.shields.io/badge/Bun-ffffff?style=for-the-badge&logo=bun&logoColor=%23000000">
 
 Community
 
