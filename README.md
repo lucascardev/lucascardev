@@ -44,15 +44,6 @@ Copyright © 2025 Shields.io. Built with Docusaurus.">
 </div>
 
 
-### Hi there 👋
-
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascardev&show_icons=true&theme=dracula"/>
-</div>
-
-
-
 <!--
 **lucascardev/lucascardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
