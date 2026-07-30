@@ -24,25 +24,6 @@
   <img loading="lazy" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23ffff">
   <img loading="lazy" src="https://img.shields.io/badge/Bun-ffffff?style=for-the-badge&logo=bun&logoColor=%23000000">
 
-Community
-
-    GitHub
-
-Open Collective
-Discord
-Awesome Badges
-Stats
-
-    Service Status
-
-Metrics dashboard
-Policy
-
-    Privacy Policy
-
-Copyright © 2025 Shields.io. Built with Docusaurus.">
-</div>
-
 
 <!--
 **lucascardev/lucascardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
