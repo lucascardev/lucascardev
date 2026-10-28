@@ -1,5 +1,7 @@
 <div style="background-color: '#FFFFFF';">
 
+Senior Software Engineer | B2B SaaS, Fintech, Healthtech & AI
+
 ## Contatos:
 
 <div>
